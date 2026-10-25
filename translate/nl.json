@@ -1,0 +1,24 @@
+{
+    "MOD_1": "\n-# als je met mij wilt praten zit ik in kannaal <#1495777836269834340>",
+    "MOD_2": "\n-# Als je het aantal plaatsen vrij in de server wilt bekijken, gebruik `/history`",
+    "MOD_3": "\n-# Ik ben een bot gemaakt door <@507816376795267072>, als er bugs of suggesties zijn, praat gewoon met hem",
+    "MOD_4": "\n-# het vertalen van alle berichten is lang, maar als je wilt helpen, kan je mij helpen met het vertalen naar andere talen, daarvoor, contacteer <@507816376795267072>",
+    "MOD_5": "\n-# Hey, Ik kan slash commando's begrijpen, je kunt `/status` proberen om de status van de server te bekijken",
+    "MOD_6": "\n-# vertaald door <@507816376795267072>",
+    "status_message_server_full": "server status: {0}/{1} spelers, {2} mensen aan het wachten",
+    "status_message_server_not_full": "server status: {0}/{1} spelers, {2} beschikbare plaatsen",
+    "status_message_server_error": "fout tijdens de status bekijken, de server is waarschijnlijk offline",
+    "history_message":"Hier is het aantal van de mensen die vandaag online zijn",
+    "dashboard_queue_title":  "WACHTRIJ",
+    "dashboard_players":      "SPELERS",
+    "dashboard_online":       "ONLINE",
+    "dashboard_waiting":      "AAN HET WACHTEN",
+    "dashboard_updated_at":   "GEÜPDATED OM",
+    "dashboard_graph_title":  "GESCHIEDENIS — SPELER VERHOUDING",
+    "dashboard_curve_total":  "TOTAAL",
+    "dashboard_curve_online": "ONLINE",
+    "dashboard_curve_wait":   "AAN HET WACHTEN",
+    "dashboard_now":          "NU",
+    "dashboard_unknown_date": "-- / -- / ----"
+
+}
